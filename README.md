@@ -1,2 +1,2 @@
 This project is focused on developing a Garage Management System designed to streamline the day-to-day operations of an automotive repair shop. The goal is to create an efficient, user-friendly system using Salesforce to manage appointments, inventory, customer data, billing, and vehicle services. This project will enhance operational efficiency, improve customer experience, and support long-term growth for the garage by utilizing cloud-based CRM tools.
- 
+ video link - https://drive.google.com/file/d/1JGikYFyP6OiTCa7XI_t9okp4OIJUi1l8/view?usp=sharing
